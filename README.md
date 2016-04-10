@@ -3,6 +3,7 @@ A sample with the files necessary to reproduce a bug within Visual Studio Code;
 
 Issue link: https://github.com/Microsoft/vscode/issues/5125
 
+@Day 2
 Did some tests today and found out the following:
 
 1. Task runner is fine
