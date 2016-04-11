@@ -13,3 +13,9 @@ Did some tests today and found out the following:
 3. Same happens when editting the name field in Source map file.
 
 So, presumably the error is not at finding generated files nor source code. It may be at reading the source map, or placing breakpoints, but I sincerely don't know how I could test something like that. 
+
+
+@Day 2 (night):
+
+Went to a sourcemap visualizer and everything worked as expected, so, not a problem at the mapping field in the .js.map file;
+Downloaded Insider's version and looks like everything is doing amanzingly well. Almost 100% sure we were dealing with a bug/version compatibility issue. I think the best thing to do is wait for the update (and use insider's version).
